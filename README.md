@@ -1,0 +1,1 @@
+Sample app to show how string to .double products nil while .doubleValue works.
